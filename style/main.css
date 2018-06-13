@@ -1,0 +1,22 @@
+@charset "utf-8";
+/*css main文档*/
+.comWidth{width:1000px;margin-left: auto;margin-right: auto;}
+.fl{float:left;}
+.fr{float:right;}
+
+/*topBar*/
+.topBar{height:31px;background-color: #F2F2F2;line-height: 31px;}
+.collection{font-weight: bold;}
+
+/*logoBar*/
+.logoBar{height: 60px;background-color: #0066FF;line-height: 60px;}
+.searchBox{width:430px;height:30px;color: #FFF;padding:15px 200px;}
+.search_text{float:left;width: 350px;height: 20px;padding:5px;}
+.search_btn{float:right;width: 70px;height: 30px;background-color: #FFCC00;color: #FFF;}
+.shopCar{float:right;background-color: #FFCC00;color: #FFF;width: 100px;height: 30px;margin: 15px;line-height: 30px;}
+.shopCar .shopText{padding-left:35px; display: inline-block; float:left;	}
+.shopCar .shopNum{margin-left:5px; display: inline-block;float:left;margin:5px;	}
+.navBox{background-color: #3399FF;height:31px;line-height: 31px;}
+.shopClass h3 {float:left;display: block;color:#FFF;}
+.nav li{float:left;display: block;padding-left: 60px;}
+.nav li a{color:#FFF;}
