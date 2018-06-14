@@ -5,6 +5,6 @@ body{font-size:12px;}
 img{border: none;}
 li{list-style: none;}
 input,select,textarea{outline:none;}
-a{text-decoration: none;color: #000;}
+a{text-decoration: none;color: #656565;}
 .clearfix:after{content: "";display:block;clear:both;}
 .clearfix{zoom:1;}
