@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*css main文档*/
+.comWidth{width:1000px;margin-left: auto;margin-right: auto;}
+.leftArea{float: left;}
+.rightArea{float:right;}
+.fl{float:left;}
+.fr{float:right;}
+.show{display: block;}
+.hide{display: none;}
+
+
+.shopList_thumb{width: 190px;height: 400px;border: #999 solid 1px;float:left;}
+.shop_row{width: 806px;height: 400px;border: #999 solid 1px;float:right;}
+.shop_item{width: 199px;height:400px;border: #999 solid 1px;}
+.shop_img{width: 198px;height: 202px;border: #999 solid 1px;}
+.top{width: 198px;height:300px;border: #999 solid 1px;text-align: center;}
+.down{width: 198px;height:98px;border: #999 solid 1px;}
+.aa{width: 1000px;height: 400px;border: #999 solid 1px;clear:left;margin-left: auto;margin-right: auto;}
