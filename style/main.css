@@ -77,7 +77,7 @@
 
 
 /*shopTit*/
-.shopTit {height:44px;margin-bottom: 15px;}
+.shopTit {height:44px;margin-bottom: 15px;margin-top: 20px;}
 .shopTit .icon{width:44px;height:44px;background: url(../img/icon/tit.jpg) left top no-repeat;float: left;display: inline-block;}
 .shopTit h3{font-size: 24px; float: left;line-height: 44px;padding-left: 10px;font-weight: normal;}
 .shopTit .more{float: right;}
@@ -93,7 +93,7 @@
 
 /*shop_item*/
 .shop_item{width: 180px;height: 240px;padding:10px;text-align: center;border-right: #999 1px solid;border-bottom : #999 1px solid;float:left;}
-.shop_item h3{padding-top: 26px;font-size: 24px;}
+.shop_item h3{padding-top: 26px;font-size: 18px;}
 .shop_item p{font-size: 16px;color: #FF7201;padding-top: 10px;}
 .shop_img{height: 218px;}
 
@@ -103,4 +103,13 @@
 .shop_sm_text{width:80px;padding-top: 30px;padding-left: 10px;}
 .shop_sm_text{line-height: 16px;}
 .shop_sm_text h3{font-size: 20px; line-height: 30px;color:#FF7201;font-weight: bold; }
+.foot_div{height: 160px;background-color: #999;}
+.footer_text{text-align: center;padding-top: 30px;}
+.footer_img{padding-top: 20px;text-align: center;}
+.footer_img img{width: 100px;height: 50px;padding-left: 10px;}
 .shop_sm_img img{width:95px;height: 95px;padding: 5px;padding-top:15px;)
+
+
+/*footer*/
+
+
